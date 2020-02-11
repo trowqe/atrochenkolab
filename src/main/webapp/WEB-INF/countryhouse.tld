@@ -1,0 +1,12 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>country house tads TLD</short-name>
+
+    <tag>
+        <name>countryhouse</name>
+        <tag-class>com.bsuir.lab2.CountryHouseTag</tag-class>
+        <body-content>scriptless</body-content>
+    </tag>
+
+</taglib>
